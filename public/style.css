@@ -1,0 +1,41 @@
+body{
+    font-family: 'Roboto',sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    padding: 0%;
+}
+li{
+    margin: 0%;
+}
+h2{
+    background-color: #c4c4c4;
+    padding: 8px;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin: 20px 0px 4px 0px;
+}
+
+input{
+    width: 400px;
+    display: block;
+    padding: 8px;
+}
+
+textarea{
+    width: 400px;
+    height: 300px;
+}
